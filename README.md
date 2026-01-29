@@ -16,8 +16,8 @@ I am a lead developer experienced in implementing and designing distributed, pet
 
 - 📰 **[agentic-news-generator](https://github.com/florianbuetow/agentic-news-generator)** - Generate a custom newspaper with an AI agent based on your favorite YouTube channels
 - 🔍 **[x-rag](https://github.com/florianbuetow/x-rag)** - Distributed Search & Indexing for Retrieval-Augmented Generation
-- 🤖 **[ai-templates](https://github.com/florianbuetow/ai-templates)** - Templates for working with AI
 - ✅ **[touchtask](https://github.com/florianbuetow/touchtask)** - Task management meets habit tracking ([Live](https://cracking-ai-engineering.com/touchtask/) | [Video](https://www.youtube.com/watch?v=Bihlr5uGq8g))
+- 🤖 **[ai-templates](https://github.com/florianbuetow/ai-templates)** - Templates for working with AI
 
 ## Latest Blog Posts
 
