@@ -2,6 +2,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/fbuetow"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/bytetweets"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" alt="X" /></a>
 <a href="https://cracking-ai-engineering.com"><img src="https://img.shields.io/badge/Blog-FF5722?logo=blogger&logoColor=white" alt="Blog" /></a>
 <a href="https://www.youtube.com/@leetcodersunited"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
 <a href="https://www.twitch.tv/sudopls"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" alt="Twitch" /></a>
