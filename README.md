@@ -45,6 +45,6 @@ I am a lead developer experienced in implementing and designing distributed, pet
 
 ## LeetCode
 
-![LeetCode Stats](https://leetcode-status.vercel.app/api/card/sudoplz?theme=dark&logo=true&custom_title=Florian%20Buetow)
+![LeetCode Stats](https://leetcode-status.vercel.app/api/card/sudoplz?logo=true&custom_title=Florian%20Buetow)
 
 ---
