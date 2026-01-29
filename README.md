@@ -29,7 +29,7 @@ I am a lead developer experienced in implementing and designing distributed, pet
 - [How to Choose Tech for Production: The Default Heuristic](https://cracking-ai-engineering.com/2025/02/01/the-default-heuristic/)
 <!-- BLOG-POST-LIST:END -->
 
-## Philosophy
+## Guiding Principles
 
 > "Bad data is worse than no data." — **Tim Berners-Lee**
 
