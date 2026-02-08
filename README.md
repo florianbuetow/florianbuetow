@@ -15,7 +15,7 @@ I am a lead developer experienced in implementing and designing distributed, pet
 
 ## Current Projects
 
-- 🔎 **[mini-rag](https://github.com/florianbuetow/mini-rag)** - Local hybrid search engine (lexical + vector) for .md/.txt docs with MCP integration — give your AI agents fast access to custom knowledge
+- 🔎 **[mini-rag](https://github.com/florianbuetow/mini-rag)** - Local hybrid search engine for your docs with MCP integration for AI agents
 - 🛡️ **[guard-tool](https://github.com/florianbuetow/guard)** - Protect your files from unwanted modifications by AI coding agents
 - 📰 **[agentic-news-generator](https://github.com/florianbuetow/agentic-news-generator)** - Generate a custom newspaper with an AI agent based on your favorite YouTube channels
 - 🔍 **[x-rag](https://github.com/florianbuetow/x-rag)** - Distributed Search & Indexing for Retrieval-Augmented Generation
