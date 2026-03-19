@@ -20,8 +20,8 @@ I am a lead developer experienced in implementing and designing distributed, pet
 - 📰 **[agentic-news-generator](https://github.com/florianbuetow/agentic-news-generator)** - Generate a custom newspaper with an AI agent based on your favorite YouTube channels
 - 🔍 **[x-rag](https://github.com/florianbuetow/x-rag)** - Distributed Search & Indexing for Retrieval-Augmented Generation
 - 📧 **[imap-mini-mcp](https://github.com/florianbuetow/imap-mini-mcp)** - MCP server that lets AI agents read, search, and organize your email inbox
-- ✅ **[touchtask](https://github.com/florianbuetow/touchtask)** - Task management meets habit tracking ([Live](https://cracking-ai-engineering.com/touchtask/) | [Video](https://www.youtube.com/watch?v=Bihlr5uGq8g))
-- 🤖 **[ai-templates](https://github.com/florianbuetow/ai-templates)** - Templates for working with AI
+- ✅ **[TouchTask](https://github.com/florianbuetow/touchtask)** - Task management meets habit tracking ([Live](https://cracking-ai-engineering.com/touchtask/) | [Video](https://www.youtube.com/watch?v=Bihlr5uGq8g))
+- 🤖 **[AI Guardrails](https://github.com/florianbuetow/ai-guardrails)** - Project templates for C++, Elixir, Go, Java, Python, and Rust with a rich set of automatic guardrails for AI coding agents
 
 ## Latest Blog Posts
 
