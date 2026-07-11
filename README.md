@@ -9,12 +9,13 @@
 <a href="https://github.com/florianbuetow"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-I am a lead developer experienced in implementing and designing distributed, petabyte-scale applications for storage, information retrieval, and ML and agentic systems in production.
+I am a AI lead developer experienced in implementing and designing distributed, petabyte-scale applications for storage, information retrieval, and ML and agentic systems in production.
 
 🔭 I've been a Backend Software Engineer, Data Scientist, and Data Engineer.<br>🌱 My current focus is on AI engineering with RAG, Agents and classic ML.<br>💬 Talk data and AI to me.<br>⚡ Fun fact: I built a [flying proa](https://en.wikipedia.org/wiki/Proa).
 
 ## Current Projects
 
+- 🏭 - **[Kamino451](https://github.com/florianbuetow/kamino451)** - An AI agent factory that uses evals, traces and Kaparthy's auto-research to improve agents and task to agent+model matching
 - 🔎 **[mini-rag](https://github.com/florianbuetow/mini-rag)** - Local hybrid search engine for your docs with MCP integration for AI agents
 - 🛡️ **[guard-tool](https://github.com/florianbuetow/guard)** - Protect your files from unwanted modifications by AI coding agents
 - 📰 **[agentic-news-generator](https://github.com/florianbuetow/agentic-news-generator)** - Generate a custom newspaper with an AI agent based on your favorite YouTube channels
