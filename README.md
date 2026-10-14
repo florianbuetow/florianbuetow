@@ -9,9 +9,9 @@
 <a href="https://github.com/florianbuetow"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-I am a AI lead developer experienced in implementing and designing distributed, petabyte-scale applications for storage, information retrieval, and ML and agentic systems in production.
+I am a principal AI engineer with extensive experienced in implementing and designing distributed, petabyte-scale applications for storage, information retrieval, ML and agentic systems in production.
 
-🔭 I've been a Backend Software Engineer, Data Scientist, and Data Engineer.<br>🌱 My current focus is on AI engineering with RAG, Agents and classic ML.<br>💬 Talk data and AI to me.<br>⚡ Fun fact: I built a [flying proa](https://en.wikipedia.org/wiki/Proa).
+🔭 I've been a Backend Software Engineer, Data Scientist, and Data Engineer.<br>🌱 My current focus is on building, scaling and evaluating the agentic software factory and AI engineering with RAG, Agents and classic ML.<br>💬 Talk data and AI to me.<br>⚡ Fun fact: I built a [flying proa](https://en.wikipedia.org/wiki/Proa).
 
 ## Current Projects
 
