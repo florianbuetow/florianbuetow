@@ -9,16 +9,18 @@
 <a href="https://github.com/florianbuetow"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-I am a principal AI engineer with extensive experienced in implementing and designing distributed, petabyte-scale applications for storage, information retrieval, ML and agentic systems in production.
+I am a Principal AI Engineer with extensive experience designing and implementing distributed, petabyte-scale applications for storage, information retrieval, ML and agentic systems in production.
 
 🔭 I've been a Backend Software Engineer, Data Scientist, and Data Engineer.<br>🌱 My current focus is on building, scaling and evaluating the agentic software factory and AI engineering with RAG, Agents and classic ML.<br>💬 Talk data and AI to me.<br>⚡ Fun fact: I built a [flying proa](https://en.wikipedia.org/wiki/Proa).
 
 ## Current Projects
 
-- 🏭 - **[Kamino451](https://github.com/florianbuetow/kamino451)** - An AI agent factory that uses evals, traces and Kaparthy's auto-research to improve agents and task to agent+model matching
+- 🏭 **[opensoftwarefactory](https://github.com/florianbuetow/opensoftwarefactory)** - A local, observable AI software factory for orchestrated agents, MCP tools, human gates and evaluated workflows
+- 🧪 **[Kamino451](https://github.com/florianbuetow/kamino451)** - An AI agent factory that uses evals, traces and Karpathy's autoresearch to improve agents and task-to-agent/model matching
 - 🔎 **[mini-rag](https://github.com/florianbuetow/mini-rag)** - Local hybrid search engine for your docs with MCP integration for AI agents
+- 🧩 **[strands-system-one](https://github.com/florianbuetow/strands-system-one)** - Benchmarks small local LLMs against Jev on typed yes/no, choice and score tasks
 - 🛡️ **[guard-tool](https://github.com/florianbuetow/guard)** - Protect your files from unwanted modifications by AI coding agents
-- 📰 **[agentic-news-generator](https://github.com/florianbuetow/agentic-news-generator)** - Generate a custom newspaper with an AI agent based on your favorite YouTube channels
+- 📰 **[agentic-news-generator](https://cracking-ai-engineering.com/projects/agentic-news-generator/)** - Generate a custom newspaper with an AI agent based on your favorite YouTube channels
 - 🔍 **[x-rag](https://github.com/florianbuetow/x-rag)** - Distributed Search & Indexing for Retrieval-Augmented Generation
 - 📧 **[imap-mini-mcp](https://github.com/florianbuetow/imap-mini-mcp)** - MCP server that lets AI agents read, search, and organize your email inbox
 - ✅ **[TouchTask](https://github.com/florianbuetow/touchtask)** - Task management meets habit tracking ([Live](https://cracking-ai-engineering.com/touchtask/) | [Video](https://www.youtube.com/watch?v=Bihlr5uGq8g))
